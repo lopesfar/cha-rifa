@@ -199,7 +199,7 @@
       sorteioISO: '2025-10-26T20:00:00-03:00',
       whats: '5511984891131',
       mensagemZap: 'Quero participar do Chá Rifa da Luara! Meu número é __NUM__.',
-      adminPIN: '2025',
+      adminPIN: '369741',
       storageKey: 'rifa_luara_v3'
     };
 
